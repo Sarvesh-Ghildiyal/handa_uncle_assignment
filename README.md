@@ -173,3 +173,15 @@ Instead of just saving the final corrected version, we should store both the ori
 It directly tells us where the model is failing, what kind of errors are happening, and under what conditions. This becomes a feedback loop for improving prompts, tuning models, and increasing accuracy over time.
 
 In a financial system where every input affects the quality of advice, this is not just an implementation detail — it is a core design decision. I built it this way, but I would have wanted to align on this explicitly before writing the first line of code.
+
+---
+
+**A small addition, a curiosity:**
+
+Post submission, while thinking about the implementation, this occurred to me.
+
+Given Handa Uncle is an AI-native system targeting large-scale personalized financial advice, my natural inclination would have been Python (FastAPI), especially since most of the ML and AI ecosystem is built around it.
+
+Earlier, two reasons that made sense for choosing a stack were team familiarity and consistency across the system. But since the frontend was open to any choice (React, Vue, or even vanilla), I was curious about the specific preference for TypeScript on the backend.
+
+Would love to understand the reasoning behind that decision.
