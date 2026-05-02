@@ -156,7 +156,7 @@ Instead of disconnected tools for sales, support, billing, engineering, hiring, 
 
 The idea is to build **closed-loop systems** where the company continuously learns from its own operations.
 
-The team structure around this stays lean: Individual Contributors across Engineering, Operations, Support, and Sales — everyone ships working prototypes, not presentations. A Directly Responsible Individual owns each outcome, focusing on strategy and customer results. The founder continues to build, guide, and lead by example — not delegate AI strategy away.
+The team structure around this stays lean: Individual Contributors across Engineering, Operations, Support, and Sales, everyone ships working prototypes, not presentations. A Directly Responsible Individual owns each outcome, focusing on strategy and customer results. The founder continues to build, guide, and lead by example — not delegate AI strategy away.
 
 The leverage comes from AI, not headcount. The shift is toward maximizing output per person using intelligence systems instead of scaling teams traditionally.
 
